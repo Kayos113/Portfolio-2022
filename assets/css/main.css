@@ -1766,6 +1766,7 @@ button,
       right: 0;
       width: calc(100% + 6em); }
     .posts article > :last-child {
+      margin-top: 2rem;
       margin-bottom: 0; }
     .posts article > p {
       height: 4rem;
